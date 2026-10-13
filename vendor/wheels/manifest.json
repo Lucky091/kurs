@@ -1,0 +1,14 @@
+{
+  "package": "pygame",
+  "version": "2.6.1",
+  "wheels": [
+    {
+      "filename": "pygame-2.6.1-cp311-cp311-win_amd64.whl",
+      "sha256": "91476902426facd4bb0dad4dc3b2573bc82c95c71b135e0daaea072ed528d299",
+      "size": 10622016,
+      "source_url": "https://files.pythonhosted.org/packages/d2/55/ca3eb851aeef4f6f2e98a360c201f0d00bd1ba2eb98e2c7850d80aabc526/pygame-2.6.1-cp311-cp311-win_amd64.whl",
+      "python": "3.11",
+      "platform": "win_amd64"
+    }
+  ]
+}
